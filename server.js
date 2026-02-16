@@ -32,7 +32,8 @@ const MODEL_MAPPING = {
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking',
   'deepseek-3.2': 'deepseek-ai/deepseek-v3.2',
   'kimi-k2-thinking': 'moonshotai/kimi-k2-thinking',
-  'glm5': 'z-ai/glm5'
+  'glm5': 'z-ai/glm5',
+  'glm-4.7': "z-ai/glm4.7'
 };
 
 // Health check endpoint
