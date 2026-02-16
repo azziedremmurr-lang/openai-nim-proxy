@@ -30,7 +30,9 @@ const MODEL_MAPPING = {
   'gpt-oss-120b': 'openai/gpt-oss-120b',
   'gpt-oss-20b': 'openai/gpt-oss-20b',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking',
-  'deepseek-3.2': 'deepseek-ai/deepseek-v3.2'
+  'deepseek-3.2': 'deepseek-ai/deepseek-v3.2',
+  'kimi-k2-thinking': 'moonshotai/kimi-k2-thinking',
+  'glm5': 'z-ai/glm5'
 };
 
 // Health check endpoint
